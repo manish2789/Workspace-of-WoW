@@ -1,0 +1,45 @@
+#include "string.h"
+ /*! Here is a snapshot of my new application:
+   *  \image html string.png
+   *  \image latex application.eps "My application" width=10cm
+ */
+
+
+void string_concatenate ( ) {
+	str1 [10];
+	    
+		str2 [20];
+	    
+	
+        strcat (arr/Array_Name,arr/output_array);
+		
+	
+}void untitled ( ) {
+	arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		
+	
+        strcpy (arr/Array_Name,arr/output_array);
+		
+	
+}void untitled ( ) {
+	arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = strlen (arr/output_array);
+		
+	
+}void untitled ( ) {
+	arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = strcmp (arr/output_array,arr/output_array,);
+		
+	
+}

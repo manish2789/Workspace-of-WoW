@@ -1,0 +1,26 @@
+
+		#ifndef logic_op_H
+		#define logic_op_H
+		
+       
+           static void neq ();
+       
+           static void eq ();
+       
+           static void lt ();
+       
+           static void gt ();
+       
+           static void gteq ();
+       
+           static void lteq ();
+       
+           static void not ();
+       
+           static void decrement ();
+       
+           static void increment ();
+        
+       
+		#endif
+    

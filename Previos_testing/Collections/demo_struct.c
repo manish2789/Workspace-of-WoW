@@ -1,0 +1,17 @@
+
+#include "demo_struct.h"
+ /*! Here is a snapshot of my new application:
+   *  \image html demo_struct.png
+   *  \image latex application.eps "My application" width=10cm
+ */
+
+
+void Struct_demo ( ) {
+	
+	
+	struct student {
+        int roll_no ;
+    };
+
+	
+}

@@ -1,0 +1,18 @@
+
+		#ifndef logic_relatinal_H
+		#define logic_relatinal_H
+		
+       
+           static void xor ();
+       
+           static void nand ();
+       
+           static void nor ();
+       
+           static void or ();
+       
+           static void and ();
+        
+       
+		#endif
+    

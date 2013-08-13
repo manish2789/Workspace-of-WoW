@@ -1,0 +1,65 @@
+#include "Matrix_op.h"
+ /*! Here is a snapshot of my new application:
+   *  \image html Matrix_op.png
+   *  \image latex application.eps "My application" width=10cm
+ */
+
+
+void Matrix_add ( ) {
+	arr1 [10];
+	    arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		arr2 [10];
+	    arr2 = (*)malloc(sizeof(uint32_t*) *  );
+		add_mat [10];
+	    add_mat = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = arr/output_array[n] + arr/output_array[n] ;
+       
+	
+}void Matrix_substract ( ) {
+	arr1 [20];
+	    arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		arr2 [20];
+	    arr2 = (*)malloc(sizeof(uint32_t*) *  );
+		Mat_Subtraction [20];
+	    Mat_Subtraction = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = arr/output_array[n] - arr/output_array[n] ;
+       
+	
+}void Matrix_Inverse ( ) {
+	inv_arr1 [10];
+	    inv_arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		arr1 [10];
+	    arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = arr/output_array[n]^-1 ;
+       
+	
+}void Matrix_Transpose ( ) {
+	arr1 [10];
+	    arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		trans_arr1 [10];
+	    trans_arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = arr/output_arraytrans[n];
+       
+	
+}void Matrix_multiply ( ) {
+	arr2 [10];
+	    arr2 = (*)malloc(sizeof(uint32_t*) *  );
+		Mat_muliplicaion [10];
+	    Mat_muliplicaion = (*)malloc(sizeof(uint32_t*) *  );
+		arr1 [10];
+	    arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		arr/Array_Name = arr/output_array[n] * arr/output_array[n] ;
+       
+	
+}void Matrix_scale ( ) {
+	 [1];
+	     = (*)malloc(sizeof(uint32_t*) *  );
+		arr [1];
+	    arr = (*)malloc(sizeof(uint32_t*) *  );
+		arr1 [10];
+	    arr1 = (*)malloc(sizeof(uint32_t*) *  );
+		uint32_t  scaling_factor = ;
+		scale_mat [10];
+	    scale_mat = (*)malloc(sizeof(uint32_t*) *  );
+		
+}

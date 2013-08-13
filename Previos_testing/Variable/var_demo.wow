@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><lib><Name>var_demo</Name><ID>147</ID><layout><x>10</x><y>10</y><w>100</w><h>100</h></layout><children><block id="org.wow.model.BlockModel"><Name>var_logic</Name><BlockReturnType>void</BlockReturnType><ID>98</ID><layout><x>213</x><y>154</y><w>333</w><h>275</h></layout><children></children></block></children></lib>

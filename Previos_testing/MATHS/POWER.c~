@@ -1,0 +1,16 @@
+#include "POWER.h"
+ /*! Here is a snapshot of my new application:
+   *  \image html POWER.png
+   *  \image latex application.eps "My application" width=10cm
+ */
+
+
+void power_logic ( ) {
+	uint32_t  power = ;
+		uint32_t  b = ;
+		uint32_t  a = ;
+		power = pow (a,b) ;
+       
+	power = pow/output;
+		
+}

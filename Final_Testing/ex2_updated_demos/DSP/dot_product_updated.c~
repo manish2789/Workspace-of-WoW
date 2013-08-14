@@ -1,0 +1,18 @@
+#include "dot_product_updated.h"
+ /*!  My new WoW-application
+   *  \image html dot_product_updated.png
+   *  \image latex application.eps "My application" width=10cm
+ */
+
+
+void dot_product_calculaion ( ) {
+	uint32_t  blocksize = 0;
+		
+	     
+   float32_t  Vect1[blocksize]  ;
+   float32_t  Vect2[blocksize]  ;
+   float32_t  Vect_out[blocksize] ;
+	
+	arm_dot_prod_f32( Vect1 ,Vect2 , &blocksize  , Vect_out );
+	
+}
